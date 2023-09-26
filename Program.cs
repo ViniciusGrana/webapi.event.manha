@@ -54,8 +54,8 @@ options.SwaggerDoc("v1", new OpenApiInfo
     Description = "Api para gerenciamneto de Event+ - Sprint 2",
     Contact = new OpenApiContact
     {
-        Name = "Joao Victor Alves Bautista ",
-        Url = new Uri("https://github.com/zAlves31")
+        Name = "Vinicius Dos Santos Grana ",
+        Url = new Uri("https://github.com/ViniciusGrana")
     }
 });
 
