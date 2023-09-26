@@ -15,7 +15,7 @@ namespace webapi.event_.manha.Contexts
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer("Server=DESKTOP-2B634JF; Database=webapi_event+_manha; user id=sa; Pwd=Senai@134; TrustServerCertificate = True");
+            optionsBuilder.UseSqlServer("Server=NOTE14-S15; Database=webapi_event+_manha; user id=sa; Pwd=Senai@134; TrustServerCertificate = True");
             base.OnConfiguring(optionsBuilder);
         }
     }
